@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.502248597880666,
+          52.57221176514426
+        ]
+      },
+      "properties": {
+        "id": "1",
+        "name": "Bücher-Box Nachbarschaftshaus Ostseeviertel",
+        "address": "Ribnitzer Straße 1B\n13051 Berlin",
+        "owner": "VaV e.V."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500271169093866,
+          52.546860744379266
+        ]
+      },
+      "properties": {
+        "id": "2",
+        "name": "Bücherbox der WGB",
+        "address": "Große-Leege-Straße 5\n13055 Berlin",
+        "owner": "WGB Neues Berlin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.495149906168164,
+          52.548921154272236
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "name": "Bücherregal Campus Hedwig",
+        "address": "Hedwigstraße 11\n13053 Berlin",
+        "owner": "SozDia (aktuell nicht am Standort)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.489565611393763,
+          52.54707171019909
+        ]
+      },
+      "properties": {
+        "id": "4",
+        "name": "Bücher-Box im Obersee-Orankesee-Park",
+        "address": "Waldowstraße 16\n13053 Berlin",
+        "owner": "Förderverein Obersee & Orankesee e.V."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.482913310162235,
+          52.52527880964934
+        ]
+      },
+      "properties": {
+        "id": "5",
+        "name": "Bücherschrank Fennpfuhl",
+        "address": "Paul-Zobel-Straße\n10367 Berlin",
+        "owner": "blu:boks Kinder- und Jugendbildung gGmbH | "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.49903128487411,
+          52.51228931334435
+        ]
+      },
+      "properties": {
+        "id": "6",
+        "name": "Büchertausch - Kieztreff UNDINE ",
+        "address": "Hagenstraße 57\n10365 Berlin",
+        "owner": "SOZIALWERK des dfb (Dachverband) e.V."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47919102769404,
+          52.50825559152252
+        ]
+      },
+      "properties": {
+        "id": "7",
+        "name": "Büchertausch - Kiezspinne ",
+        "address": "Schulze-Boysen-Straße 38\n10365 Berlin",
+        "owner": "Kiezspinne FAS e.V."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.480394552271171,
+          52.50329652300604
+        ]
+      },
+      "properties": {
+        "id": "8",
+        "name": "Bücherbox auf dem Tuchollaplatz ",
+        "address": "Tuchollaplatz\n10317 Berlin",
+        "owner": "Initiative Bürger:innen im Kaskelkiez & Tag des guten Lebens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500040498785209,
+          52.506042073022414
+        ]
+      },
+      "properties": {
+        "id": "9",
+        "name": "Heinrichs Bücher Treffpunkt",
+        "address": "Heinrichstraße 31\n10317 Berlin",
+        "owner": "Betreuung durch die Gemeinde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52793069429326,
+          52.51280301817455
+        ]
+      },
+      "properties": {
+        "id": "10",
+        "name": "Bücherbox vor der Kita Schlaue Füchse der CityKids Berlin",
+        "address": "Gensinger Straße 60\n10315 Berlin",
+        "owner": "Betreuung durch Adam-Ries-Grundschule und Kindergarten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.522827765414384,
+          52.50867834735982
+        ]
+      },
+      "properties": {
+        "id": "11",
+        "name": "Bücherbox",
+        "address": "Charlottenstraße 3a\n10315 Berlin",
+        "owner": "Betreuung durch AWO KINUFA Familienzentrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51011013447033,
+          52.49300298484623
+        ]
+      },
+      "properties": {
+        "id": "12",
+        "name": "Bücherbox",
+        "address": "Mellenseestraße 5\n10319 Berlin",
+        "owner": "Kiez-Forum Melle24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.526355662249776,
+          52.48190673503347
+        ]
+      },
+      "properties": {
+        "id": "13",
+        "name": "Bücherbox auf dem Johannes-Fest-Platz",
+        "address": "Johannes-Fest-Platz\n10318 Berlin",
+        "owner": "Bürgerverein Berlin-Karlshorst e. V."
+      }
+    }
+  ]
+}
