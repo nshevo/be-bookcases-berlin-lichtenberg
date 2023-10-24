@@ -18,7 +18,7 @@ This repository contains the backend of the project. The backend was build using
 The frontend of the project can be found [here](https://github.com/psylocube/fe-bookcases-berlin-lichtenberg). This frontend was build using React. Follow the given link for more information about the frontend.
 
 ## Results
-To see the results of the project visit [here](https://psylocube.github.io/fe-bookcases-berlin-lichtenberg#results).
+To see the results of the project visit [here](https://github.com/psylocube/fe-bookcases-berlin-lichtenberg#results).
 
 ## Installation
 The backend can be started by running the following commands in the terminal:
